@@ -1,13 +1,4 @@
-# Homework 2
-
-### Group ID: 2
-
-### Group Members:
-
-Mingji Han
-Michael Harkess  
-Meghna Murali  
-Shizhe Yang  
+#This project is excerpted from a project from another class(EC500) which utilizes google map APIs
 
 ### Solution 
 
