@@ -7,3 +7,5 @@ These are screenshots of how the program is run.
 1.Download Android Studio
 2.Install all necessary SDKs.
 3.Load the route file into the emulator.
+
+#To view the whole user stories and MVP stories,please see the pdf file in this folder. It's named with my name in it.
